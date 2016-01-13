@@ -23,7 +23,7 @@ Perl::
 
 Python::
 
-    See http://elasticsearch-py.readthedocs.org/en/master/helpers.html[elasticsearch.helpers.*]
+    See http://elasticsearch-py.readthedocs.org/en/master/helpers.html[elasticsearch.helpers.*] 
 
 *********************************************
 
